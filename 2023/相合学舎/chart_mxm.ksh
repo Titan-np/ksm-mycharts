@@ -8,7 +8,7 @@ level=19
 t=126
 m=music.ogg
 mvol=120
-o=-20
+o=-15
 bg=imassc0.jpg;imassc1.jpg
 layer=wave
 po=60119
@@ -17,7 +17,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.01 Created:'23/05/04
+information=v1.02 Created:'23/05/04
 ver=171
 --
 beat=4/4
@@ -10224,7 +10224,7 @@ tilt=0
 0000|00|::
 0000|00|::
 0000|00|::
-0000|00|J:
+0000|00|K:
 0000|00|::
 0000|00|:A
 0000|00|::
