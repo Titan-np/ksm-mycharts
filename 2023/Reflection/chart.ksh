@@ -4,7 +4,7 @@ effect=Titan.
 jacket=jacket.jpg
 illustrator=THE IDOLM@STER SHINY COLORS
 difficulty=infinite
-level=15
+level=16
 t=134
 m=music.ogg
 o=-20
@@ -16,7 +16,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'23/08/14
+information=v1.01 Created:'23/08/14
 ver=171
 --
 beat=4/4
