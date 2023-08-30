@@ -16,7 +16,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'23/08/30
+information=v1.01 Created:'23/08/30
 ver=171
 --
 beat=4/4
@@ -5677,8 +5677,8 @@ fx-r=Wobble;16
 0000|00|::
 --
 beat=4/1
-fx-l_se=reverb_clap.wav;50
-fx-r_se=reverb_clap.wav;50
+fx-l_se=fireflower.wav
+fx-r_se=fireflower.wav
 t=17408
 center_split=0
 center_split=4000
