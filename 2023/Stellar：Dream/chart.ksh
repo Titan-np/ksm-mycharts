@@ -2,7 +2,7 @@
 artist=EmoCosine + Synthion
 effect=Titan. -starry-
 jacket=jacket.jpg
-illustrator=ONGEKI Memorial Soundtrack Nexture 01「Starry」
+illustrator=オンゲキ bright MEMORY
 difficulty=infinite
 level=19
 t=250
