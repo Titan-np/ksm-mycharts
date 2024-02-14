@@ -1,7 +1,7 @@
 ﻿title=常咲の庭
 artist=田熊知存(Dream Monster) / 杜野凛世
 effect=また息吹く ～TI～
-jacket=rinze_p_ssr6.png
+jacket=jacket2.jpg
 illustrator=THE IDOLM@STER SHINY COLORS
 difficulty=infinite
 level=17
