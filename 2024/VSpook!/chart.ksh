@@ -16,7 +16,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'24/02/17
+information=v1.01 Created:'24/02/17
 ver=171
 --
 beat=4/4
@@ -3905,6 +3905,7 @@ tilt=0
 0000|00|--
 0000|00|--
 0000|00|--
+tilt=0.7
 zoom_bottom=-40
 fx-r=HpfW
 0000|01|0-
@@ -3925,7 +3926,6 @@ fx-r=HpfW
 0000|01|--
 --
 t=163
-tilt=0.7
 zoom_bottom=10
 1000|00|--
 0000|00|--
