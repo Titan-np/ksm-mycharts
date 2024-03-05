@@ -1,7 +1,7 @@
 ﻿title=Event Horizon
 artist=5u5hi / 三角 葵(CV：春野 杏)
 effect=Titan. -starry-
-jacket=jacket_temp.jpg
+jacket=jacket.jpg
 illustrator=オンゲキ bright MEMORY
 difficulty=infinite
 level=17
@@ -6577,8 +6577,8 @@ zoom_bottom=-100
 0000|00|--
 --
 zoom_bottom=-70
-laserrange_r=2x
 laserrange_l=2x
+laserrange_r=2x
 0000|00|bh
 0000|00|::
 0000|00|::
