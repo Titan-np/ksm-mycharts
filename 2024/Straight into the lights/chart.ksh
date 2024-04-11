@@ -7,7 +7,7 @@ difficulty=infinite
 level=19
 t=90
 m=music.ogg
-o=30
+o=40
 bg=black0.jpg
 layer=genetaror.jpg;1200;1
 po=2500
@@ -16,7 +16,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'24/02/19
+information=v1.01 Created:'24/02/19
 ver=171
 --
 beat=4/4
