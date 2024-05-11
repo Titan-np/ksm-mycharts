@@ -16,7 +16,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:24/04/18
+information=v1.00 Created:'24/04/18
 ver=171
 --
 beat=4/4
