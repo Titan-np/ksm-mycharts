@@ -16,7 +16,7 @@ pfiltergain=50
 filtertype=hpf1
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'24/05/06
+information=v1.01 Created:'24/05/06
 ver=171
 --
 beat=4/4
@@ -1958,7 +1958,7 @@ filtertype=HQW4
 filtertype=TSTP
 0000|20|KU
 0000|00|::
-0000|00|eo
+0000|00|e:
 0000|00|::
 0000|00|::
 0000|00|::
@@ -1983,7 +1983,7 @@ filtertype=TSTP
 filtertype=lpf1
 zoom_top=60
 zoom_bottom=60
-0000|00|eo
+0000|00|eU
 0000|00|::
 0000|00|AK
 0000|00|::
