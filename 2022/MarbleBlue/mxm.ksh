@@ -5,7 +5,7 @@ jacket=jacket.jpg
 illustrator=オンゲキ bright MEMORY
 difficulty=infinite
 level=20
-t=19.8.22-
+t=198.22
 m=music.ogg
 o=-20
 bg=beach.jpg;beach.jpg
@@ -18,6 +18,7 @@ chokkakuautovol=0
 chokkakuvol=80
 information=v1.04 Created:'22/04/09
 ver=171
+icon=radar_mxm.png
 --
 t=198.22
 beat=4/4

@@ -18,6 +18,7 @@ chokkakuautovol=0
 chokkakuvol=80
 information=v1.00 Created:'17/04/21
 ver=160
+icon=radar_exh.png
 --
 beat=4/4
 0000|00|--

@@ -18,6 +18,7 @@ chokkakuautovol=0
 chokkakuvol=80
 information=v2.02 Created:'22/10/27
 ver=171
+icon=radar_xcd.png
 --
 beat=4/4
 zoom_top=0

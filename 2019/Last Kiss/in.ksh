@@ -19,6 +19,7 @@ chokkakuvol=80
 total=222
 information=v1.0x Created:'19/02/25
 ver=167
+icon=radar.png
 --
 beat=4/4
 0000|00|--
