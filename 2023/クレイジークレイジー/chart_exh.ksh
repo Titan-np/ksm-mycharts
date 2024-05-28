@@ -1,6 +1,6 @@
 ﻿title=クレイジークレイジー
 artist=レイジー・レイジー
-effect=XXII's TRIAL 2023 -side VOL-
+effect=XXII's TRIAL 2023 -A-
 jacket=jacket.jpg
 illustrator=THE IDOLM@STER CINDERELLA GIRLS
 difficulty=extended
