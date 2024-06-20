@@ -16,7 +16,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'24/06/20
+information=v1.01 Created:'24/06/20
 icon=radar.png
 ver=171
 --
@@ -3023,7 +3023,7 @@ tilt=0
 0000|00|::
 --
 tilt=-0.7
-0000|00|IK
+0000|00|KK
 0000|00|::
 0000|00|::
 0000|00|::
