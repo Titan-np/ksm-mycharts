@@ -7,6 +7,7 @@ difficulty=infinite
 level=18
 t=159
 m=music.ogg
+mvol=120
 o=-10
 bg=hasunosora0.jpg;hasunosora1.jpg
 layer=simple_pink.gif;700;1
@@ -16,7 +17,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'24/07/20
+information=v1.01 Created:'24/07/20
 icon=radar.png
 ver=171
 --
