@@ -8,7 +8,7 @@ level=17
 t=130
 m=music.ogg
 mvol=85
-o=-20
+o=-15
 bg=hasunosora0.jpg;hasunosora1.jpg
 layer=simple_blue.gif;700;1
 po=41884
@@ -17,7 +17,7 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'24/08/25
+information=v1.01 Created:'24/08/25
 icon=radar.png
 ver=171
 --
