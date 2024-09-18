@@ -1,6 +1,6 @@
 ﻿title=平行線の美学
 artist=コメティック
-effect=Titan. -GaLACTIK-
+effect=Titan.
 jacket=jacket.jpg
 illustrator=THE IDOLM@STER SHINY COLORS
 difficulty=infinite

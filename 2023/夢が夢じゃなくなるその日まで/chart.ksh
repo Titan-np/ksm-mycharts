@@ -1,6 +1,6 @@
 ﻿title=夢が夢じゃなくなるその日まで
 artist=ノクチル
-effect=ちたんとユアクマちゃん2023
+effect=ちたんとユアクマちゃん -canvas-
 jacket=jacket.jpg
 illustrator=THE IDOLM@STER SHINY COLORS
 difficulty=infinite

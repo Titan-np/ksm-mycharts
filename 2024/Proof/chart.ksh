@@ -1,6 +1,6 @@
 ﻿title=Proof
 artist=DOLLCHESTRA
-effect=Don't look back ～TI～
+effect=いつか最高地点の先へ ～TI～
 jacket=jacket.png
 illustrator=ラブライブ！蓮ノ空女学院スクールアイドルクラブ
 difficulty=infinite

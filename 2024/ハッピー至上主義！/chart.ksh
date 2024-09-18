@@ -1,6 +1,6 @@
 ﻿title=ハッピー至上主義！
 artist=かほめぐ♡じぇらーと
-effect=禁止条例！ ～TI～
+effect=Titan.
 jacket=jacket.png
 illustrator=ラブライブ！蓮ノ空女学院スクールアイドルクラブ
 difficulty=infinite

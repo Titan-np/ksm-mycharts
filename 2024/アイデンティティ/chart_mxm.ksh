@@ -1,6 +1,6 @@
 ﻿title=アイデンティティ (104期New Ver.)
 artist=みらくらぱーく！
-effect=ちたん（めぐ党）
+effect=ちたん@めぐ党
 jacket=jacket_mxm.png
 illustrator=ラブライブ！蓮ノ空女学院スクールアイドルクラブ
 difficulty=infinite

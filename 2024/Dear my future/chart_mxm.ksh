@@ -1,6 +1,6 @@
 ﻿title=Dear my future
 artist=スリーズブーケ
-effect=Titan. dioxide
+effect=Titan. style C
 jacket=jacket.jpg
 illustrator=ラブライブ！蓮ノ空女学院スクールアイドルクラブ
 difficulty=infinite

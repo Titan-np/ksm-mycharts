@@ -1,6 +1,6 @@
 ﻿title=いつだって僕らは
 artist=ノクチル
-effect=やは～～～♥
+effect=Titan.
 jacket=jacket.jpg
 illustrator=THE IDOLM@STER SHINY COLORS
 difficulty=extended

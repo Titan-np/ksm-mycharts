@@ -1,6 +1,6 @@
 ﻿title=あおぞらサイダー
 artist=小久保祐希、YUU for YOU / 市川雛菜
-effect=♥ひななのおむこさん♥
+effect=ちたん@雛菜P
 jacket=jacket.jpg
 illustrator=THE IDOLM@STER SHINY COLORS
 difficulty=infinite

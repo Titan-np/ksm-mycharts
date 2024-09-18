@@ -1,6 +1,6 @@
 ﻿title=アスファルトを鳴らして
 artist=ノクチル
-effect=ちたんとユアクマちゃん2022
+effect=ちたんとユアクマちゃん -panorama-
 jacket=jacket.jpg
 illustrator=THE IDOLM@STER SHINY COLORS
 difficulty=infinite

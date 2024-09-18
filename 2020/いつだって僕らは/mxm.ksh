@@ -1,6 +1,6 @@
 ﻿title=いつだって僕らは
 artist=ノクチル
-effect=すごい～～？
+effect=ちたん@雛菜P
 jacket=jacket3.jpg
 illustrator=THE IDOLM@STER SHINY COLORS
 difficulty=infinite

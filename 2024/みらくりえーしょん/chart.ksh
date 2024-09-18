@@ -1,6 +1,6 @@
 ﻿title=みらくりえーしょん
 artist=みらくらぱーく！
-effect=Titan. meets ちたん（めぐ党）
+effect=Titan. meets ちたん@めぐ党
 jacket=jacket.png
 illustrator=ラブライブ！蓮ノ空女学院スクールアイドルクラブ
 difficulty=infinite
