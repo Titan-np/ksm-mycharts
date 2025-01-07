@@ -1,4 +1,4 @@
-﻿title=アイデンティティ (104期New Ver.)
+﻿title=アイデンティティ (104期NEW Ver.)
 artist=みらくらぱーく！
 effect=ちたん@めぐ党
 jacket=jacket_mxm.png
@@ -16,9 +16,9 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'24/05/19
-ver=171
+information=v1.02 Created:'24/05/19
 icon=radar_mxm.png
+ver=171
 --
 beat=4/4
 tilt=0

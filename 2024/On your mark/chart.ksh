@@ -1,4 +1,4 @@
-﻿title=On your mark
+﻿title=On your mark (104期 Ver.)
 artist=蓮ノ空女学院スクールアイドルクラブ
 effect=Titan.
 jacket=jacket.jpg
@@ -16,9 +16,9 @@ pfiltergain=50
 filtertype=peak
 chokkakuautovol=0
 chokkakuvol=80
-information=v1.00 Created:'24/04/18
-ver=171
+information=v1.01 Created:'24/04/18
 icon=radar.png
+ver=171
 --
 beat=4/4
 tilt=0
